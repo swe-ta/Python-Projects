@@ -1,0 +1,7 @@
+1 kilometer(km)	1000 meters (m)
+1 meter(m)	100 centimeters (cm)
+1 centimeter(cm)	10 millimeters (mm)
+1 inch(in)	2.54 centimeters (cm)
+1 foot(ft)	12 inches (in)
+1 yard(yd)	3 feet (ft)
+1 mile(mi)	1.609 kilometers (km)
